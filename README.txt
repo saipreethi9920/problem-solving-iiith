@@ -66,7 +66,8 @@ div tag and shown with a <h2> tag -->
 element, You can also include images with <img> tag -->
 <div id="lab-article-section-2-content" class="content">
   <ul id="list-of-experiments">
-  
+  <ul>
+  </ul>
     <li> 
       <!--Link and name of the experiment 1 -->
       <a href="exp1/index.html">Simple Pendulum Experiment</a> 
